@@ -6,7 +6,7 @@ Here’s an updated version that includes a reference to public health:
 - 👀 I’m interested in entry-level IT positions, cybersecurity, and technology solutions that enhance efficiency, particularly in public health contexts.  
 - 🌱 I’m currently learning about IT fundamentals and preparing for certification tests, particularly with CompTIA.  
 - 💞️ I’m looking to collaborate on projects related to technology implementation and support in organizational settings, especially those that improve public health outcomes.  
-- 📫 How to reach me: You can email me at foster.e.dave@gmail.com or call me at (503) 395-4652.  
+- 📫 How to reach me: You can email me at foster.e.dave@gmail.com.
 - ⚡ Fun fact: I enjoy volunteering in my community and have participated in neighborhood cleanup efforts and community-oriented policing initiatives, aiming to promote public health and safety.
 -
 - <!---
